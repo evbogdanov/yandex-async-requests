@@ -1,0 +1,21 @@
+{
+  "name": "yandex-async-requests",
+  "version": "0.0.1",
+  "description": "Yandex interview question",
+  "main": "solution.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evbogdanov/yandex-async-requests.git"
+  },
+  "author": "Ev Bogdanov",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
